@@ -29,13 +29,14 @@
 					<li><a href="#degree">Degrees</a></li>
 					<li><a href="#activity">Activities</a></li>
 					<li><a href="#publication">Publications</a></li>
+					<li><a href="#code">Code</a></li>
 				</ul>
 			</div>
 			<div class="content">
 				<div class="main">
 
 					
-					<hr>
+					
 
 					<!-- Heading levels 
 					<h1>Heading level 1</h1>
@@ -48,7 +49,7 @@
 
 					<!-- Paragraphs -->
 					<h2>Contact</h2>
-					<p><a href="#contact"></a>
+					<p><a name="contact"></a>
 					Centre for Translation Studies <br>
 					University of Leeds <br>
 					Leeds, LS2 9JT <br>
@@ -58,11 +59,11 @@
 					</p>
 					<hr>
 					<h2>Research Interests</h2>
-					<p><a href="#interest"></a> My research interests are in: Machine Translation, Quality Estimation, Evaluation of Machine Translation, Semantic Textual Similarity, Recognizing Textual Entailment, and Word Sense Disambiguation.<br></p>
+					<p><a name="interest"></a> My research interests are in: Machine Translation, Quality Estimation, Evaluation of Machine Translation, Semantic Textual Similarity, Recognizing Textual Entailment, and Word Sense Disambiguation.<br></p>
 					<hr>
 
 					<h2>Degrees</h2>
-					<p><a href="#degree"></a>
+					<p><a name="degree"></a>
 					PhD, November 2014<br>
 					From: 	<a href="http://rgcl.wlv.ac.uk/">University of Wolverhampton</a><br>
 					Thesis:  <a href="http://rgcl.wlv.ac.uk/wp-content/uploads/2015/04/thesis-Miguel_Angel_Rios_Gaona.pdf">Methods for Measuring Semantic Similarity of Texts</a> 	<br>
@@ -79,7 +80,7 @@
 					</p>
 					<hr>
 					<h2>Activities</h2>
-					<p><a href="#activity"></a>
+					<p><a name="activity"></a>
 					Reviewer for RANLP-2015.<br>
 					Reviewer for EMNLP-2015.<br> 
 					Reviewer for RANLP-2011.<br>
@@ -89,23 +90,23 @@
 
 					
 					<h2>Publications</h2>
-					<p><a href="#publication"></a> 
+					<p><a name="publication"></a> 
 					<h3>2015</h3>
-					M. Rios, S. Sharoff. <a href="http://ufal.ms.mff.cuni.cz/~rosa/2015/docs/dmtw2015_1.pdf#page=87">Large Scale Translation Quality Estimation</a>. 1st Deep Machine Translation Workshop<br><br>
-					M. Rios, S. Sharoff. <a href="http://www.aclweb.org/anthology/W/W15/W15-34.pdf#page=78">Obtaining SMT dictionaries for related languages</a>.<br><br>
+					M. Rios, S. Sharoff. <a href="http://ufal.ms.mff.cuni.cz/~rosa/2015/docs/dmtw2015_1.pdf#page=87">Large Scale Translation Quality Estimation</a>. 1st Deep Machine Translation Workshop, Charles University in Prague, Faculty of Mathematics and Physics, Institute of Formal and Applied Linguistics, Praha, Czech Republic, ISBN 978-80-904571-7-1<br><br>
+					M. Rios, S. Sharoff. <a href="http://www.aclweb.org/anthology/W/W15/W15-34.pdf#page=78">Obtaining SMT dictionaries for related languages</a>. Proceedings of the Eighth Workshop on Building and Using Comparable Corpora, Association for Computational Linguistics, Beijing, China<br><br>
 					<h3>2014</h3>
 		M. Rios and L. Specia. <a href="http://www.aclweb.org/website/old_anthology/S/S14/S14-2.pdf#page=799">Uow: Multi-task learning gaussian process for semantic textual similarity</a>. Proceedings of the 8th International Workshop on Semantic Evaluation (SemEval 2014), Dublin, Ireland.  <br><br>
-		M. Rios, L. Specia, A. Gelbukh and R. Mitkov. <a href="http://link.springer.com/chapter/10.1007%2F978-3-642-54906-9_27">Statistical Relational Learning to Recognise Textual Entailment</a>. Proceedings of the 15th International Conference on Intelligent Text Processing and Computational Linguistics, CICLing 2014, ISSN 0302-9743, Springer, 2014, pp. 330–339.<br><br>
+		M. Rios, L. Specia, A. Gelbukh and R. Mitkov. <a href="papers/Statistical Relational Learning to Recognise Textual Entailment.pdf">Statistical Relational Learning to Recognise Textual Entailment</a>. Proceedings of the 15th International Conference on Intelligent Text Processing and Computational Linguistics, CICLing 2014, ISSN 0302-9743, Springer, 2014, pp. 330–339.<br><br>
 
 		<h3>2012</h3>
-		M. Rios, A. Gelbukh. <a href="papers/RTE_SEM.pdf">Recognizing Textual Entailment with Similarity Metrics</a>. Research in Computing Science, ISSN 1870-4069, Vol. 58, 2012, pp. 337–347.<br><br>
-		M. Rios, A. Gelbukh.  <a href="papers/RTE_EDIT.pdf">Recognizing Textual Entailment with a Semantic Edit Distance Metric</a>. 2012 11th Mexican International Conference on Artificial Intelligence (MICAI), IEEE CS Press, 2012, ISBN 978-0-7695-4904-0, DOI 10.1109/MICAI.2012.29, pp. 15–20.<br><br>
+		M. Rios, A. Gelbukh. <a href="papers/Recognizing Textual Entailment with Similarity Metrics.pdf">Recognizing Textual Entailment with Similarity Metrics</a>. Research in Computing Science, ISSN 1870-4069, Vol. 58, 2012, pp. 337–347.<br><br>
+		M. Rios, A. Gelbukh.  <a href="papers/Recognizing Textual Entailment with a Semantic Edit Distance Metric.pdf">Recognizing Textual Entailment with a Semantic Edit Distance Metric</a>. 2012 11th Mexican International Conference on Artificial Intelligence (MICAI), IEEE CS Press, 2012, ISBN 978-0-7695-4904-0, DOI 10.1109/MICAI.2012.29, pp. 15–20.<br><br>
 		R. Mitkov, R. Evans, C. Orasan, I. Dornescu, M. Rios. <a href="papers/coref.pdf">Coreference Resolution: To What Extent Does It Help NLP Applications?</a> Proceedings of Text, Speech and Dialogue (TSD 2012). Lecture Notes in Computer Science Volume 7499, 2012, pp. 16-27. <br><br>
-		M. Rios, W. Aziz, and L. Specia. <a href="papers/TINE_SEMEVAL2012.pdf">UOW: Semantically Informed Text Similarity</a>. Proceedings of the 6th International Workshop on Semantic Evaluation (SemEval 2012).<br><br>
+		M. Rios, W. Aziz, and L. Specia. <a href="papers/uow:semantically_informaed_text_similarity.pdf">UOW: Semantically Informed Text Similarity</a>. Proceedings of the 6th International Workshop on Semantic Evaluation (SemEval 2012).<br><br>
 		<h3>2011</h3>
-		M. Rios, W. Aziz, and L. Specia. <a href="papers/TINE_WMT2011.pdf">TINE: A Metric to Assess MT Adequacy</a>. In Sixth Workshop on Statistical Machine Translation (WMT-2011), Edinburgh, UK. <br><br>
-		W. Aziz, M. Rios, and L. Specia. <a href="papers/SMT_WMT2011.pdf">Shallow Semantic Trees for SMT</a>. In Sixth Workshop on Statistical Machine Translation (WMT-2011), Edinburgh, UK. <br><br>
-		W. Aziz, M. Rios, and L. Specia. <a href="papers/SRL_RANLP2011.pdf">Improving Chunk-based Semantic Role Labeling with Lexical Features</a>. In Recent Advances in Natural Language Processing (RANLP-2011), Hissar, Bulgaria. <br><br>
+		M. Rios, W. Aziz, and L. Specia. <a href="papers/tine:a_metric_to_asses_mt_adequacy.pdf">TINE: A Metric to Assess MT Adequacy</a>. In Sixth Workshop on Statistical Machine Translation (WMT-2011), Edinburgh, UK. <br><br>
+		W. Aziz, M. Rios, and L. Specia. <a href="http://statmt.org/wmt11/pdf/WMT36.pdf">Shallow Semantic Trees for SMT</a>. In Sixth Workshop on Statistical Machine Translation (WMT-2011), Edinburgh, UK. <br><br>
+		W. Aziz, M. Rios, and L. Specia. <a href="papers/Improving Chunk-based Semantic Role Labeling with Lexical Features.pdf">Improving Chunk-based Semantic Role Labeling with Lexical Features</a>. In Recent Advances in Natural Language Processing (RANLP-2011), Hissar, Bulgaria. <br><br>
 		<h3>2010</h3>
 		M. Rios, A. Gelbukh, and S. Bandyopadhyay <a href="http://www.gelbukh.com/CV/Publications/2010/Recognizing%20Textual%20Entailment%20Using%20a%20Machine%20Learning.pdf">Recognizing Textual Entailment Using a Machine Learning Approach</a>. Proceedings of MICAI 2010, 9th Mexican International Conference on Artificial Intelligence.<br><br>		
 		M. Rios, A. Gelbukh, and S. Bandyopadhyay <a href="http://www.gelbukh.com/CV/Publications/2010/Recognizing%20Textual%20Entailment%20with%20Statistical%20Methods.pdf">Recognizing Textual Entailment with Statistical Methods</a>. Proceedings of MCPR 2010, 2nd Mexican Conference on Pattern Recognition. Lecture Notes in Computer Science, Springer.<br><br>
@@ -114,12 +115,12 @@
 		<h3>2008</h3>
 		M. Rios, S. Godoy Calderon, and A. Gelbukh <a href="http://www.gelbukh.com/CV/Publications/2008/Word%20Sense%20Disambiguation%20with%20the%20KORA-Omega%20Algorithm.pdf">Word Sense Disambiguation with the KORA-Ω Algorithm</a>. Advances in Intelligent and Information Technologies. Special issue of Journal Research in Computing Science, ISSN 1870-4069, N 38, 2008, pp. 263–270.<br><br>
 </p>
-					
+					<hr>
 					<h2>Code</h2>
-					<p><a href="">github</a>
+					<p><a name="code"></a> <a href="https://github.com/mriosb08">github</a>
 					<br>
 					</p>
-					<hr>
+					
 					<!-- Responsive images 
 					<h3>Responsive images</h3>
 					<p>For images to be responsive (so that they will rescale to suit the width of the parent, use the <code>.img-responsive</code> class.</p>

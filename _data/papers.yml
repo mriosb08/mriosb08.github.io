@@ -17,6 +17,7 @@
   authors: "M. Rios, W. Aziz, and K. Sima'an"
   doc-url: //arxiv.org/pdf/1802.05883.pdf
   arxiv: //arxiv.org/abs/1802.05883
+  code: //github.com/uva-slpl/embedalign
   booktitle: "NAACL-HLT"
 -
   layout: paper

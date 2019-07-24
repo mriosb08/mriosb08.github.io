@@ -1,0 +1,220 @@
+-
+  layout: paper
+  paper-type: inproceedings
+  selected: y
+  year: 2019
+  title: "Latent Variable Model for Multi-modal Translation"
+  authors: "I. Calixto, M. Rios and W. Aziz"
+  doc-url: //arxiv.org/pdf/1811.00357.pdf
+  arxiv: //arxiv.org/abs/1811.00357
+  booktitle: "ACL 2019"
+-
+  layout: paper
+  paper-type: inproceedings
+  selected: y
+  year: 2018
+  title: "Deep Generative Model for Joint Alignment and Word Representation"
+  authors: "M. Rios, W. Aziz, and K. Sima'an"
+  doc-url: //arxiv.org/abs/1802.05883
+  arxiv: //arxiv.org/pdf/1802.05883.pdf
+  booktitle: "NAACL-HLT 2018"
+-
+  layout: paper
+  paper-type: inproceedings
+  selected: y
+  year: 2017
+  title: "The QT21 Combined Machine Translation System for English to Latvian"
+  authors: "J. Peter, H. Ney, O. Bojar, N. Pham, J. Niehues, A. Waibel, F. Burlot, F. Yvon, M. Pinnis, V. Šics, J. Bastings, M. Rios, W. Aziz, P. Williams, F. Blain, and L. Specia"
+  doc-url: //www.statmt.org/wmt17/pdf/WMT34.pdf
+  booktitle: "WMT 2017"
+-
+
+  layout: paper
+  paper-type: inproceedings
+  selected: y
+  year: 2016
+  title: "Language Adaptation for Extending Post-Editing Estimates for Closely Related Languages"
+  authors: "M. Rios, S. Sharoff"
+  doc-url: //ufal.mff.cuni.cz/pbml/106/art-rios-sharoff.pdf
+  booktitle: "The Prague Bulletin of Mathematical Linguistics"
+-
+
+  layout: paper
+  paper-type: inproceedings
+  selected: y
+  year: 2015
+  title: "Large Scale Translation Quality Estimation"
+  authors: "M. Rios, S. Sharoff"
+  doc-url: //ufal.ms.mff.cuni.cz/~rosa/2015/docs/dmtw2015_1.pdf#page=87
+  booktitle: "1st Deep Machine Translation Workshop 2015"
+-
+
+  layout: paper
+  paper-type: inproceedings
+  selected: y
+  year: 2015
+  title: "Obtaining SMT dictionaries for related languages"
+  authors: "M. Rios, S. Sharoff"
+  doc-url: //www.aclweb.org/anthology/W15-3410
+  booktitle: "Eighth Workshop on Building and Using Comparable Corpora, ACL 2015"
+-
+  layout: paper
+  paper-type: inproceedings
+  selected: y
+  year: 2014
+  title: "Uow: Multi-task learning gaussian process for semantic textual similarity"
+  authors: "M. Rios and L. Specia"
+  doc-url: //https://www.aclweb.org/anthology/S14-2138
+  booktitle: "SEMEVAL 2014"
+-
+
+  layout: paper
+  paper-type: inproceedings
+  selected: y
+  year: 2014
+  title: "Statistical Relational Learning to Recognise Textual Entailment"
+  authors: "M. Rios, L. Specia, A. Gelbukh and R. Mitkov"
+  doc-url: /papers/Statistical Relational Learning to Recognise Textual Entailment.pdf
+  booktitle: "CICLing 2014"
+-
+
+  layout: paper
+  paper-type: inproceedings
+  selected: y
+  year: 2014
+  title: "PhD thesis: Methods for Measuring Semantic Similarity of Texts"
+  authors: "M. Rios"
+  doc-url: //rgcl.wlv.ac.uk/wp-content/uploads/2015/04/thesis-Miguel_Angel_Rios_Gaona.pdf
+  thesis: //rgcl.wlv.ac.uk/wp-content/uploads/2015/04/thesis-Miguel_Angel_Rios_Gaona.pdf
+  booktitle: "University of Wolverhampton"
+-
+
+  layout: paper
+  paper-type: inproceedings
+  selected: y
+  year: 2012
+  title: "Recognizing Textual Entailment with Similarity Metrics"
+  authors: "M. Rios, A. Gelbukh"
+  doc-url: /papers/Recognizing Textual Entailment with Similarity Metrics.pdf
+  booktitle: "Research in Computing Science, ISSN 1870-4069"
+-
+
+  layout: paper
+  paper-type: inproceedings
+  selected: y
+  year: 2012
+  title: "Recognizing Textual Entailment with a Semantic Edit Distance Metric"
+  authors: "M. Rios, A. Gelbukh."
+  doc-url: /papers/Recognizing Textual Entailment with a Semantic Edit Distance Metric.pdf
+  booktitle: "MICAI 2012"
+-
+
+  layout: paper
+  paper-type: inproceedings
+  selected: y
+  year: 2012
+  title: "Coreference Resolution: To What Extent Does It Help NLP Applications?"
+  authors: "R. Mitkov, R. Evans, C. Orasan, I. Dornescu, M. Rios"
+  doc-url: /papers/coref.pdf
+  booktitle: "TSD 2012"
+-
+
+
+  layout: paper
+  paper-type: inproceedings
+  selected: y
+  year: 2012
+  title: "UOW: Semantically Informed Text Similarity"
+  authors: "M. Rios, W. Aziz, and L. Specia"
+  doc-url: //www.aclweb.org/anthology/S12-1100
+  booktitle: "SEMEVAL 2012"
+-
+
+  layout: paper
+  paper-type: inproceedings
+  selected: y
+  year: 2011
+  title: "TINE: A Metric to Assess MT Adequacy"
+  authors: "M. Rios, W. Aziz, and L. Specia"
+  doc-url: //www.aclweb.org/anthology/W11-2112
+  booktitle: "WMT 2011"
+-
+
+  layout: paper
+  paper-type: inproceedings
+  selected: y
+  year: 2011
+  title: "Shallow Semantic Trees for SMT"
+  authors: "W. Aziz, M. Rios, and L. Specia"
+  doc-url: //www.aclweb.org/anthology/W11-2136
+  booktitle: "WMT 2011"
+-
+
+  layout: paper
+  paper-type: inproceedings
+  selected: y
+  year: 2011
+  title: "Improving Chunk-based Semantic Role Labeling with Lexical Features"
+  authors: "W. Aziz, M. Rios, and L. Specia"
+  doc-url: //www.aclweb.org/anthology/R11-1031
+  booktitle: "RANLP 2011"
+-
+
+  layout: paper
+  paper-type: inproceedings
+  selected: y
+  year: 2010
+  title: "Master thesis: Word Sense Disambiguation and Recognizing Textual Entailment with Statistical Methods"
+  authors: "M. Rios"
+  booktitle: "Centre for Computing Research, IPN, Mexico"
+-
+
+  layout: paper
+  paper-type: inproceedings
+  selected: y
+  year: 2010
+  title: "Recognizing Textual Entailment Using a Machine Learning Approach"
+  authors: "M. Rios, A. Gelbukh, and S. Bandyopadhyay"
+  doc-url: //www.gelbukh.com/CV/Publications/2010/Recognizing Textual Entailment Using a Machine Learning.pdf
+  booktitle: "MICAI 2010"
+-
+
+  layout: paper
+  paper-type: inproceedings
+  selected: y
+  year: 2010
+  title: "Recognizing Textual Entailment with Statistical Methods"
+  authors: "M. Rios, A. Gelbukh, and S. Bandyopadhyay"
+  doc-url: //www.gelbukh.com/CV/Publications/2010/Recognizing Textual Entailment with Statistical Methods.pdf
+  booktitle: "MCPR 2010"
+-
+
+  layout: paper
+  paper-type: inproceedings
+  selected: y
+  year: 2009
+  title: "Web-based Variant of the Lesk Approach to Word Sense Disambiguation"
+  authors: "M. Rios, A. Gelbukh, and S. Bandyopadhyay"
+  doc-url: //www.gelbukh.com/CV/Publications/2009/Web-based Variant of the Lesk Approach to Word Sense Disambiguation.pdf
+  booktitle: "MICAI 2009"
+-
+
+  layout: paper
+  paper-type: inproceedings
+  selected: y
+  year: 2008
+  title: "Word Sense Disambiguation with the KORA-Ω  Algorithm"
+  authors: "M. Rios, S. Godoy Calderon, and A. Gelbukh"
+  doc-url: //www.gelbukh.com/CV/Publications/2008/Word%20Sense%20Disambiguation%20with%20the%20KORA-Omega%20Algorithm.pdf
+  booktitle: "Special issue of Journal Research in Computing Science, ISSN 1870-4069"
+-
+
+  layout: paper
+  paper-type: inproceedings
+  selected: y
+  year: 2008
+  title: "BEng thesis: Word Sense Disambiguation Using Synonyms"
+  authors: "M. Rios"
+  booktitle: "Superior School of Computing, IPN, Mexico"
+
+

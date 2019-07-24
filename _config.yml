@@ -1,0 +1,40 @@
+title: Miguel Rios
+# email: 
+# description: >- # this means to ignore newlines until "baseurl:"
+description: "Research Associate at University of Amsterdam"
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+# twitter_username: 
+# github_username:  
+locale: "en"
+
+# Author information (sidebar)
+author:
+    name: "Miguel Rios"
+    avatar: "/assets/images/bio-photo.png"
+    bio:  "Research Associate at University of Amsterdam"
+    # location: "University of Amsterdam"
+    links:
+        - label: "Scholar"
+          icon: "fab fa-fw fa-google"
+          url: "https://scholar.google.com.mx/citations?user=38wUxwwAAAAJ&hl=en"
+        - label: "Twitter"
+          icon: "fab fa-fw fa-twitter-square"
+          url: "https://twitter.com/mriosb08"
+        - label: "GitHub"
+          icon: "fab fa-fw fa-github"
+          url: "https://github.com/mriosb08"
+        - label: "LinkedIn"
+          icon: "fab fa-linkedin"
+          url: "https://www.linkedin.com/in/miguel-angel-rios-gaona-423169a5/"
+        - label: "m.riosgaona@uva.nl"
+          icon: "far fa-envelope"
+          url: "mailto:m.riosgaona@uva.nl"
+
+# Build settings
+markdown: kramdown
+remote_theme: "mmistakes/minimal-mistakes@4.16.5"
+minimal_mistakes_skin: "air"
+plugins:
+  - jekyll-feed
+  - jekyll-include-cache

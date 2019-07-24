@@ -15,8 +15,8 @@
   year: 2018
   title: "Deep Generative Model for Joint Alignment and Word Representation"
   authors: "M. Rios, W. Aziz, and K. Sima'an"
-  doc-url: //arxiv.org/abs/1802.05883
-  arxiv: //arxiv.org/pdf/1802.05883.pdf
+  doc-url: //arxiv.org/pdf/1802.05883.pdf
+  arxiv: //arxiv.org/abs/1802.05883
   booktitle: "NAACL-HLT 2018"
 -
   layout: paper

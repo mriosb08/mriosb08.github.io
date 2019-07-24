@@ -7,7 +7,7 @@
   authors: "I. Calixto, M. Rios and W. Aziz"
   doc-url: //arxiv.org/pdf/1811.00357.pdf
   arxiv: //arxiv.org/abs/1811.00357
-  booktitle: "ACL 2019"
+  booktitle: "ACL"
 -
   layout: paper
   paper-type: inproceedings
@@ -17,7 +17,7 @@
   authors: "M. Rios, W. Aziz, and K. Sima'an"
   doc-url: //arxiv.org/pdf/1802.05883.pdf
   arxiv: //arxiv.org/abs/1802.05883
-  booktitle: "NAACL-HLT 2018"
+  booktitle: "NAACL-HLT"
 -
   layout: paper
   paper-type: inproceedings
@@ -26,7 +26,7 @@
   title: "The QT21 Combined Machine Translation System for English to Latvian"
   authors: "J. Peter, H. Ney, O. Bojar, N. Pham, J. Niehues, A. Waibel, F. Burlot, F. Yvon, M. Pinnis, V. Šics, J. Bastings, M. Rios, W. Aziz, P. Williams, F. Blain, and L. Specia"
   doc-url: //www.statmt.org/wmt17/pdf/WMT34.pdf
-  booktitle: "WMT 2017"
+  booktitle: "WMT"
 -
 
   layout: paper
@@ -46,7 +46,7 @@
   title: "Large Scale Translation Quality Estimation"
   authors: "M. Rios, S. Sharoff"
   doc-url: //ufal.ms.mff.cuni.cz/~rosa/2015/docs/dmtw2015_1.pdf#page=87
-  booktitle: "1st Deep Machine Translation Workshop 2015"
+  booktitle: "Deep Machine Translation Workshop"
 -
 
   layout: paper
@@ -56,7 +56,7 @@
   title: "Obtaining SMT dictionaries for related languages"
   authors: "M. Rios, S. Sharoff"
   doc-url: //www.aclweb.org/anthology/W15-3410
-  booktitle: "Eighth Workshop on Building and Using Comparable Corpora, ACL 2015"
+  booktitle: "Workshop on Building and Using Comparable Corpora, ACL"
 -
   layout: paper
   paper-type: inproceedings
@@ -65,7 +65,7 @@
   title: "Uow: Multi-task learning gaussian process for semantic textual similarity"
   authors: "M. Rios and L. Specia"
   doc-url: //https://www.aclweb.org/anthology/S14-2138
-  booktitle: "SEMEVAL 2014"
+  booktitle: "SEMEVAL"
 -
 
   layout: paper
@@ -75,7 +75,7 @@
   title: "Statistical Relational Learning to Recognise Textual Entailment"
   authors: "M. Rios, L. Specia, A. Gelbukh and R. Mitkov"
   doc-url: /papers/Statistical Relational Learning to Recognise Textual Entailment.pdf
-  booktitle: "CICLing 2014"
+  booktitle: "CICLing"
 -
 
   layout: paper
@@ -106,7 +106,7 @@
   title: "Recognizing Textual Entailment with a Semantic Edit Distance Metric"
   authors: "M. Rios, A. Gelbukh."
   doc-url: /papers/Recognizing Textual Entailment with a Semantic Edit Distance Metric.pdf
-  booktitle: "MICAI 2012"
+  booktitle: "MICAI"
 -
 
   layout: paper
@@ -116,7 +116,7 @@
   title: "Coreference Resolution: To What Extent Does It Help NLP Applications?"
   authors: "R. Mitkov, R. Evans, C. Orasan, I. Dornescu, M. Rios"
   doc-url: /papers/coref.pdf
-  booktitle: "TSD 2012"
+  booktitle: "TSD"
 -
 
 
@@ -127,7 +127,7 @@
   title: "UOW: Semantically Informed Text Similarity"
   authors: "M. Rios, W. Aziz, and L. Specia"
   doc-url: //www.aclweb.org/anthology/S12-1100
-  booktitle: "SEMEVAL 2012"
+  booktitle: "SEMEVAL"
 -
 
   layout: paper
@@ -137,7 +137,7 @@
   title: "TINE: A Metric to Assess MT Adequacy"
   authors: "M. Rios, W. Aziz, and L. Specia"
   doc-url: //www.aclweb.org/anthology/W11-2112
-  booktitle: "WMT 2011"
+  booktitle: "WMT"
 -
 
   layout: paper
@@ -147,7 +147,7 @@
   title: "Shallow Semantic Trees for SMT"
   authors: "W. Aziz, M. Rios, and L. Specia"
   doc-url: //www.aclweb.org/anthology/W11-2136
-  booktitle: "WMT 2011"
+  booktitle: "WMT"
 -
 
   layout: paper
@@ -157,7 +157,7 @@
   title: "Improving Chunk-based Semantic Role Labeling with Lexical Features"
   authors: "W. Aziz, M. Rios, and L. Specia"
   doc-url: //www.aclweb.org/anthology/R11-1031
-  booktitle: "RANLP 2011"
+  booktitle: "RANLP"
 -
 
   layout: paper
@@ -176,7 +176,7 @@
   title: "Recognizing Textual Entailment Using a Machine Learning Approach"
   authors: "M. Rios, A. Gelbukh, and S. Bandyopadhyay"
   doc-url: //www.gelbukh.com/CV/Publications/2010/Recognizing Textual Entailment Using a Machine Learning.pdf
-  booktitle: "MICAI 2010"
+  booktitle: "MICAI"
 -
 
   layout: paper
@@ -186,7 +186,7 @@
   title: "Recognizing Textual Entailment with Statistical Methods"
   authors: "M. Rios, A. Gelbukh, and S. Bandyopadhyay"
   doc-url: //www.gelbukh.com/CV/Publications/2010/Recognizing Textual Entailment with Statistical Methods.pdf
-  booktitle: "MCPR 2010"
+  booktitle: "MCPR"
 -
 
   layout: paper
@@ -196,7 +196,7 @@
   title: "Web-based Variant of the Lesk Approach to Word Sense Disambiguation"
   authors: "M. Rios, A. Gelbukh, and S. Bandyopadhyay"
   doc-url: //www.gelbukh.com/CV/Publications/2009/Web-based Variant of the Lesk Approach to Word Sense Disambiguation.pdf
-  booktitle: "MICAI 2009"
+  booktitle: "MICAI"
 -
 
   layout: paper

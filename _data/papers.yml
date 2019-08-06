@@ -8,20 +8,7 @@
   doc-url: //arxiv.org/pdf/1811.00357.pdf
   arxiv: //arxiv.org/abs/1811.00357
   booktitle: "ACL"
-  bibtex: >
-      @inproceedings{calixto-etal-2019-latent,
-        title = "Latent Variable Model for Multi-modal Translation",
-        author = "Calixto, Iacer  and
-        Rios, Miguel  and
-        Aziz, Wilker",
-        booktitle = "Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics",
-        month = jul,
-        year = "2019",
-        address = "Florence, Italy",
-        publisher = "Association for Computational Linguistics",
-        url = "https://www.aclweb.org/anthology/P19-1642",
-        pages = "6392--6405",
-        }
+  bibtex: //aclweb.org/anthology/papers/P/P19/P19-1642.bib
 
 -
   layout: paper
@@ -34,6 +21,8 @@
   arxiv: //arxiv.org/abs/1802.05883
   code: //github.com/uva-slpl/embedalign
   booktitle: "NAACL-HLT"
+  bibtex: //aclweb.org/anthology/papers/N/N18/N18-1092.bib
+
 -
   layout: paper
   paper-type: inproceedings

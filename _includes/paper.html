@@ -39,23 +39,8 @@
 
     <!-- resources -->
     
-    <!-- bibtex -->
     {% if include.paper.bibtex %}
-      <!-- Modal -->
-      <div class="modal fade" id="bibtex" tabindex="-1" role="dialog" aria-hidden="true">
-        <div class="modal-dialog">
-          <div class="modal-content">
-            <div class="modal-header">
-              <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-              <h4 class="modal-title">Bibtex | {{ include.paper.title }}</h4>
-            </div>
-            <div class="modal-body">
-              <pre>{{ include.paper.bibtex }}</pre>
-            </div>
-          </div><!-- /.modal-content -->
-        </div><!-- /.modal-dialog -->
-      </div><!-- /.modal -->
-      <a data-toggle="modal" href="#bibtex" class="label label-default">[bibtex]</a>&nbsp;
+    <a href="{{ include.paper.bibtex }}" class="label label-info">[bibtex]</a>
     {% endif %}
 
     <!-- draft/slides/poster/talk -->

@@ -42,7 +42,7 @@
     <!-- bibtex -->
     {% if include.paper.bibtex %}
       <!-- Modal -->
-      <div class="modal fade" id="{{ include.paper.bibtex }}" tabindex="-1" role="dialog" aria-hidden="true">
+      <div class="modal fade" id="bibtex" tabindex="-1" role="dialog" aria-hidden="true">
         <div class="modal-dialog">
           <div class="modal-content">
             <div class="modal-header">
@@ -55,7 +55,7 @@
           </div><!-- /.modal-content -->
         </div><!-- /.modal-dialog -->
       </div><!-- /.modal -->
-      <a data-toggle="modal" href="{{ include.paper.bibtex }}" class="label label-default">[bibtex]</a>&nbsp;
+      <a data-toggle="modal" href="#bibtex" class="label label-default">[bibtex]</a>&nbsp;
     {% endif %}
 
     <!-- draft/slides/poster/talk -->

@@ -32,6 +32,7 @@
   authors: "J. Peter, H. Ney, O. Bojar, N. Pham, J. Niehues, A. Waibel, F. Burlot, F. Yvon, M. Pinnis, V. Šics, J. Bastings, M. Rios, W. Aziz, P. Williams, F. Blain, and L. Specia"
   doc-url: //www.statmt.org/wmt17/pdf/WMT34.pdf
   booktitle: "WMT"
+  bibtex: //aclweb.org/anthology/papers/W/W17/W17-4734.bib
 -
 
   layout: paper
@@ -52,6 +53,7 @@
   authors: "M. Rios, S. Sharoff"
   doc-url: //ufal.ms.mff.cuni.cz/~rosa/2015/docs/dmtw2015_1.pdf#page=87
   booktitle: "Deep Machine Translation Workshop"
+  bibtex: //aclweb.org/anthology/papers/W/W15/W15-5710.bib
 -
 
   layout: paper
@@ -62,6 +64,7 @@
   authors: "M. Rios, S. Sharoff"
   doc-url: //www.aclweb.org/anthology/W15-3410
   booktitle: "Workshop on Building and Using Comparable Corpora, ACL"
+  bibtex: //www.aclweb.org/anthology/papers/W/W15/W15-3410.bib
 -
   layout: paper
   paper-type: inproceedings
@@ -71,6 +74,7 @@
   authors: "M. Rios and L. Specia"
   doc-url: //https://www.aclweb.org/anthology/S14-2138
   booktitle: "SEMEVAL"
+  bibtex: //www.aclweb.org/anthology/papers/S/S14/S14-2138.bib
 -
 
   layout: paper
@@ -81,6 +85,7 @@
   authors: "M. Rios, L. Specia, A. Gelbukh and R. Mitkov"
   doc-url: /papers/Statistical Relational Learning to Recognise Textual Entailment.pdf
   booktitle: "CICLing"
+  bibtex: /papers/Statistical Relational Learning to Recognise Textual Entailment.bib
 -
 
   layout: paper

@@ -97,6 +97,7 @@
   doc-url: //rgcl.wlv.ac.uk/wp-content/uploads/2015/04/thesis-Miguel_Angel_Rios_Gaona.pdf
   thesis: //rgcl.wlv.ac.uk/wp-content/uploads/2015/04/thesis-Miguel_Angel_Rios_Gaona.pdf
   booktitle: "University of Wolverhampton"
+  bibtex: /papers/phd_thesis.bib 
 -
 
   layout: paper
@@ -138,6 +139,7 @@
   authors: "M. Rios, W. Aziz, and L. Specia"
   doc-url: //www.aclweb.org/anthology/S12-1100
   booktitle: "SEMEVAL"
+  bibtex: //www.aclweb.org/anthology/papers/S/S12/S12-1100.bib
 -
 
   layout: paper
@@ -148,6 +150,7 @@
   authors: "M. Rios, W. Aziz, and L. Specia"
   doc-url: //www.aclweb.org/anthology/W11-2112
   booktitle: "WMT"
+  bibtex: //aclweb.org/anthology/papers/W/W11/W11-2112.bib
 -
 
   layout: paper
@@ -158,6 +161,7 @@
   authors: "W. Aziz, M. Rios, and L. Specia"
   doc-url: //www.aclweb.org/anthology/W11-2136
   booktitle: "WMT"
+  bibtex: //www.aclweb.org/anthology/papers/W/W11/W11-2136.bib
 -
 
   layout: paper
@@ -168,6 +172,7 @@
   authors: "W. Aziz, M. Rios, and L. Specia"
   doc-url: //www.aclweb.org/anthology/R11-1031
   booktitle: "RANLP"
+  bibtex: https://www.aclweb.org/anthology/papers/R/R11/R11-1031.bib
 -
 
   layout: paper

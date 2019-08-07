@@ -118,7 +118,7 @@
   authors: "M. Rios, A. Gelbukh."
   doc-url: /papers/Recognizing Textual Entailment with a Semantic Edit Distance Metric.pdf
   booktitle: "MICAI"
-  bibtex: papers/Recognizing Textual Entailment with a Semantic Edit Distance Metric.bib
+  bibtex: /papers/Recognizing Textual Entailment with a Semantic Edit Distance Metric.bib
 -
 
   layout: paper

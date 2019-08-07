@@ -192,6 +192,7 @@
   authors: "M. Rios, A. Gelbukh, and S. Bandyopadhyay"
   doc-url: //www.gelbukh.com/CV/Publications/2010/Recognizing Textual Entailment Using a Machine Learning.pdf
   booktitle: "MICAI"
+  bibtex: /papers/Recognizing Textual Entailment Using.bib
 -
 
   layout: paper
@@ -202,6 +203,8 @@
   authors: "M. Rios, A. Gelbukh, and S. Bandyopadhyay"
   doc-url: //www.gelbukh.com/CV/Publications/2010/Recognizing Textual Entailment with Statistical Methods.pdf
   booktitle: "MCPR"
+  bibtex: /papers/Recognizing Textual Entailment with Statistical Methods.bib
+
 -
 
   layout: paper

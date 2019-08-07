@@ -217,7 +217,7 @@
   authors: "M. Rios, A. Gelbukh, and S. Bandyopadhyay"
   doc-url: //www.gelbukh.com/CV/Publications/2009/Web-based Variant of the Lesk Approach to Word Sense Disambiguation.pdf
   booktitle: "MICAI"
-  bibtex: papers/wsd_lesk_webvariant.bib
+  bibtex: /papers/wsd_lesk_webvariant.bib
 -
 
   layout: paper

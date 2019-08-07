@@ -129,7 +129,7 @@
   authors: "R. Mitkov, R. Evans, C. Orasan, I. Dornescu, M. Rios"
   doc-url: /papers/coref.pdf
   booktitle: "TSD"
-  bibtext: /papers/coref.bib
+  bibtex: /papers/coref.bib
 -
 
 

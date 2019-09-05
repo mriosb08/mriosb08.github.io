@@ -1,10 +1,10 @@
 ---
 layout: single
 author_profile: true
-title: 
+title: Students 
 ---
 
-# I have the pleasure of working with excellent students.
+## I have the pleasure of working with excellent students.
 
 * Fabio Curi, VU, MSc 2019. Linguistic features for Low-Resource Neural Machine Translation
 

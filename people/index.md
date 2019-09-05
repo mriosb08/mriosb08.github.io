@@ -16,6 +16,6 @@ title: Students
 
 * Tirza Soute, UvA, MSc candidate. Recognising Textual Entailment based on Bayesian deep learning.
 
-* Thijs Brouwers, VU, MSc candidate. Text Summarisation based on self-attention neural architectures.
+* Thijs Brouwers, VU, MSc 2019. Text Summarisation based on self-attention neural architectures.
 
 

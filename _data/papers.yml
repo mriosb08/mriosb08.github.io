@@ -43,6 +43,7 @@
   authors: "M. Rios, S. Sharoff"
   doc-url: //ufal.mff.cuni.cz/pbml/106/art-rios-sharoff.pdf
   booktitle: "The Prague Bulletin of Mathematical Linguistics"
+  bibtex: /papers/quality_estimation.bib
 -
 
   layout: paper

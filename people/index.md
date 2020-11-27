@@ -18,4 +18,12 @@ title: Students
 
 * Thijs Brouwers, VU, MSc 2019. Transformer Networks with Adversarial Discriminator for Domain Adaptation in Text Summarization.
 
+* Marthe Knijff, AMC, PhD candidate 2020. Uncertainty Estimation for Prediction Models.
 
+* Jasper Stevens, Amsterdam University College, BSc 2020, Hidden Structure as Named Entity Type Predictor: Exploring Variational Inference in Named Entity Recognition for the De-Identification of Dutch Medical Text.
+
+* Virginia Ceni Silva, AMC, 2020, Medical BERTje: a Pre-trained Dutch Language Model Fine-tuned on Dutch Medical Text.
+
+* Giuseppe Albi, AMC, MSc candidate, 2020, Enhanced pre-trained Text Representations with Knowledge Bases for mortality prediction.
+
+* Ziye Fang,  AMC, MSc candidate, 2020, Interpretable Neural Prediction Models Using Clinical Notes.

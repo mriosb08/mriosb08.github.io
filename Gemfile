@@ -4,7 +4,8 @@ gem 'jekyll-include-cache'
 gem "github-pages", group: :jekyll_plugins
 gem "minimal-mistakes-jekyll"
 gem "rubyzip", ">= 1.3.0"
-gem "nokogiri", ">= 1.10.8"
+gem "nokogiri", ">= 1.11.0"
+gem "kramdown", ">= 2.3.1"
 ## Hello! This is where you manage which Jekyll version is used to run.
 ## When you want to use a different version, change it below, save the
 ## file and run `bundle install`. Run Jekyll with `bundle exec`, like so:

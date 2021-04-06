@@ -2,6 +2,24 @@
   layout: paper
   paper-type: inproceedings
   selected: y
+  year: 2021
+  title: "Deep Kernel Learning for Mortality Prediction in the Face of Temporal Shift"
+  authors: "M. Rios, and A. Abu-Hanna"
+  booktitle: "Artificial Intelligence in Medicine"
+
+-
+  layout: paper
+  paper-type: inproceedings
+  selected: y
+  year: 2021
+  title: "The Effectiveness of Phrase Skip-Gram in Primary Care NLP for the Prediction of Lung Cancer"
+  authors: "T.T. Luik, M. Rios, A. Abu-Hanna, H.C.P.M. van Weert, and M.C. Schut"
+  booktitle: "Artificial Intelligence in Medicine"
+
+-
+  layout: paper
+  paper-type: inproceedings
+  selected: y
   year: 2019
   title: "Latent Variable Model for Multi-modal Translation"
   authors: "I. Calixto, M. Rios and W. Aziz"

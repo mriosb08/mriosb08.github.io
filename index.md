@@ -12,7 +12,7 @@ You can find my CV [here](/assets/files/CV.pdf).
 
 ### Activities
 
-Reviewer for: ACL, EMNLP, CoNLL, AAAI, RANLP, CICLing, journal Entropy, and journal LREV.  
+Reviewer for: ICLR, NeurIPS, ACL, EMNLP, CoNLL, AAAI, RANLP, CICLing, Natural Language Engineering, Journal of Biomedical Informatics, journal Entropy, and journal LREV.  
 
 ### News
 

@@ -12,6 +12,15 @@
   paper-type: inproceedings
   selected: y
   year: 2021
+  title: "Pre-trained Text Representations with Knowledge Bases for Mortality Prediction"
+  authors: "G. Albi, M. Rios, A. Abu-Hanna, and R. Bellazzi"
+  booktitle: "Workshop on Knowledge Representation for Health Care, KR4HC 2021"
+
+-
+  layout: paper
+  paper-type: inproceedings
+  selected: y
+  year: 2021
   title: "The Effectiveness of Phrase Skip-Gram in Primary Care NLP for the Prediction of Lung Cancer"
   authors: "T.T. Luik, M. Rios, A. Abu-Hanna, H.C.P.M. van Weert, and M.C. Schut"
   booktitle: "Artificial Intelligence in Medicine"

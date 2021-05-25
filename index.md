@@ -8,7 +8,6 @@ I am an assistant professor at the Academic Medical Center for the University of
 
 My research interests are in: Medical informatics, machine translation, quality estimation, evaluation of machine translation, semantic textual similarity, recognizing textual entailment, and word sense disambiguation.
 
-You can find my CV [here](/assets/files/CV.pdf).
 
 ### Activities
 

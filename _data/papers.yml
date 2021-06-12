@@ -7,6 +7,7 @@
   authors: "M. Rios, and A. Abu-Hanna"
   doc-url: //link.springer.com/chapter/10.1007/978-3-030-77211-6_22
   booktitle: "Artificial Intelligence in Medicine"
+  code: //github.com/mriosb08/dkl-temporal-shift
 
 -
   layout: paper
@@ -16,6 +17,7 @@
   title: "Pre-trained Text Representations with Knowledge Bases for Mortality Prediction"
   authors: "G. Albi, M. Rios, A. Abu-Hanna, and R. Bellazzi"
   booktitle: "Workshop on Knowledge Representation for Health Care, KR4HC 2021"
+  code: //github.com/Sep905/pre-trained_wv_with_kb.git
 
 -
   layout: paper

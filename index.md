@@ -4,9 +4,9 @@ author_profile: true
 title: About
 ---
 
-I am an assistant professor at the Academic Medical Center for the University of Amsterdam, developing unsupervised models for text representation based on Bayesian Deep Learning. In particular, I am interested in natural language processing applications for the medical domain. 
+I am an Post Doc at the HAITrans lab for the University of Vienna, developing models for text representation, and Machine Translation. In particular, I am interested in deep generative models for neural Machine Translation. 
 
-My research interests are in: Medical informatics, machine translation, quality estimation, evaluation of machine translation, semantic textual similarity, recognizing textual entailment, and word sense disambiguation.
+My research interests are in: Machine translation, medical informatics, quality estimation, evaluation of machine translation, semantic textual similarity, recognizing textual entailment, and word sense disambiguation.
 
 
 ### Activities
@@ -14,5 +14,7 @@ My research interests are in: Medical informatics, machine translation, quality 
 Reviewer for: ICLR, NeurIPS, ACL, EMNLP, CoNLL, AAAI, RANLP, CICLing, Natural Language Engineering, Journal of Biomedical Informatics, journal Entropy, and journal LREV.  
 
 ### News
+
+* I've joined the University of Vienna as a post doc on the 2nd of November, 2021.
 
 * I've joined the AMC-UvA as an assistant professor on the 1st of September, 2019. 

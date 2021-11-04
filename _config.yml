@@ -13,7 +13,7 @@ author:
     name: "Miguel Rios"
     avatar: "/assets/images/bio-photo.png"
     bio:  "University of Vienna"
-    # location: "University of Amsterdam"
+    # location: "University of Vienna"
     links:
         - label: "Scholar"
           icon: "fab fa-fw fa-google"

@@ -1,7 +1,7 @@
 title: Miguel Rios
 # email: 
 # description: >- # this means to ignore newlines until "baseurl:"
-description: "Assistant professor at the AMC, University of Amsterdam"
+description: "Post Doc at the HAITrans lab, University of Vienna"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: 
@@ -12,7 +12,7 @@ locale: "en"
 author:
     name: "Miguel Rios"
     avatar: "/assets/images/bio-photo.png"
-    bio:  "Assitant professor at the AMC, University of Amsterdam"
+    bio:  "University of Vienna"
     # location: "University of Amsterdam"
     links:
         - label: "Scholar"

@@ -27,9 +27,9 @@ author:
         - label: "LinkedIn"
           icon: "fab fa-linkedin"
           url: "https://www.linkedin.com/in/miguel-angel-rios-gaona-423169a5/"
-        - label: "m.a.riosgaona@amsterdamumc.nl"
-          icon: "far fa-envelope"
-          url: "mailto:m.a.riosgaona@amsterdamumc.nl"
+          #- label: "m.a.riosgaona@amsterdamumc.nl"
+          #icon: "far fa-envelope"
+          #url: "mailto:m.a.riosgaona@amsterdamumc.nl"
 
 # Build settings
 markdown: kramdown

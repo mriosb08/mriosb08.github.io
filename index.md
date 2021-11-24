@@ -4,7 +4,7 @@ author_profile: true
 title: About
 ---
 
-I am an Postdoc at the [HAITrans](https://haitrans.univie.ac.at/haitrans/) lab for the University of Vienna, developing models for text representation, and Machine Translation. In particular, I am interested in deep generative models for neural Machine Translation. 
+I am a Postdoc at the [HAITrans](https://haitrans.univie.ac.at/haitrans/) lab for the University of Vienna, developing models for text representation, and Machine Translation. In particular, I am interested in deep generative models for neural Machine Translation. 
 
 My research interests are in: Machine translation, medical informatics, quality estimation, evaluation of machine translation, semantic textual similarity, recognizing textual entailment, and word sense disambiguation.
 

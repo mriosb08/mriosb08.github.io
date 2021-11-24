@@ -20,10 +20,10 @@ title: Students
 
 * Marthe Knijff, AMC, PhD candidate 2020. Uncertainty Estimation for Prediction Models.
 
-* Jasper Stevens, Amsterdam University College, BSc 2020, Hidden Structure as Named Entity Type Predictor: Exploring Variational Inference in Named Entity Recognition for the De-Identification of Dutch Medical Text.
+* Jasper Stevens, Amsterdam University College, BSc 2020. Hidden Structure as Named Entity Type Predictor: Exploring Variational Inference in Named Entity Recognition for the De-Identification of Dutch Medical Text.
 
-* Virginia Ceni Silva, AMC, 2020, Medical BERTje: a Pre-trained Dutch Language Model Fine-tuned on Dutch Medical Text.
+* Virginia Ceni Silva, AMC, 2020. Medical BERTje: a Pre-trained Dutch Language Model Fine-tuned on Dutch Medical Text.
 
-* Giuseppe Albi, AMC, MSc candidate, 2020, Enhanced pre-trained Text Representations with Knowledge Bases for mortality prediction.
+* Giuseppe Albi, AMC, MSc 2020. Enhanced pre-trained Text Representations with Knowledge Bases for mortality prediction.
 
-* Ziye Fang,  AMC, MSc candidate, 2020, Interpretable Neural Prediction Models Using Clinical Notes.
+* Ziye Fang,  AMC, MSc 2020. Interpretable Neural Prediction Models Using Clinical Notes.

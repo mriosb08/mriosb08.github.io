@@ -1,6 +1,6 @@
 -
   layout: paper
-  paper-type: journal
+  paper-type: inproceedings
   selected: y
   year: 2022
   title: "Evaluating Pointwise Reliability of Machine Learning prediction"

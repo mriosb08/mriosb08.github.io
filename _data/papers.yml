@@ -1,5 +1,15 @@
 -
   layout: paper
+  paper-type: journal
+  selected: y
+  year: 2022
+  title: "Evaluating Pointwise Reliability of Machine Learning prediction"
+  authors: "G. Nicora, M. Rios, A. Abu-Hanna, and R. Bellazzi"
+  doc-url: //www.sciencedirect.com/science/article/abs/pii/S1532046422000120
+  booktitle: "Journal of Biomedical Informatics"
+
+-
+  layout: paper
   paper-type: inproceedings
   selected: y
   year: 2021

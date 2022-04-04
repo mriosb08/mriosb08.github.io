@@ -14,6 +14,7 @@ My research interests are in: Machine translation, medical informatics, quality 
 Reviewer for: ICLR, NeurIPS, ACL, EMNLP, CoNLL, AAAI, RANLP, CICLing, Natural Language Engineering, Journal of Biomedical Informatics, journal Entropy, and journal LREV.  
 
 ### News
+* We've successfully applied for a grant to develop machine translation research for the medical domain from the Google Cloud research credits programme on the 2nd of March, 2022.
 
 * I've joined the University of Vienna as a post doc on the 2nd of November, 2021.
 

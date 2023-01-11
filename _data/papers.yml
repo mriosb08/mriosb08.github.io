@@ -2,6 +2,27 @@
   layout: paper
   paper-type: inproceedings
   selected: y
+  year: 2023
+  title: "Negation detection in Dutch clinical texts: an evaluation of rule-based and machine learning methods"
+  authors: "B. van Es, LC. Reteig, SC. Tan, M. Schraagen, MM. Hemker, SRS. Arends, M. Rios, and S. Haitjema "
+  doc-url: https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-022-05130-x
+  booktitle: "BMC Bioinformatics 24, 10 (2023). https://doi.org/10.1186/s12859-022-05130-x"
+
+-
+  layout: paper
+  paper-type: inproceedings
+  selected: y
+  year: 2022
+  title: "Impact of Domain-Adapted Multilingual Neural Machine Translation in the Medical Domain"
+  authors: "M. Rios, RM. Chereji, A Secara, and D Ciobanu"
+  doc-url: https://arxiv.org/pdf/2212.02143.pdf
+  arxiv: https://arxiv.org/abs/2212.02143
+  booktitle: "Translating and the Computer - TC44, 24 November 2022, Luxembourg"
+
+-
+  layout: paper
+  paper-type: inproceedings
+  selected: y
   year: 2022
   title: "Evaluating Pointwise Reliability of Machine Learning prediction"
   authors: "G. Nicora, M. Rios, A. Abu-Hanna, and R. Bellazzi"

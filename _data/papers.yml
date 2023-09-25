@@ -3,10 +3,32 @@
   paper-type: inproceedings
   selected: y
   year: 2023
+  title: "Prognostic models of in-hospital mortality of intensive care patients using neural representation of unstructured text: a systematic review and critical appraisal"
+  authors: "N. Dormosh, M. Rios, PhD, T.T. Luik. T.M. Buonocore, P.WG. Elbers, D.A. Dongelmans, M.C. Schut, and A. Abu-Hanna"
+  doc-url: 
+  booktitle: "Accepted for publication in Journal of Biomedical Informatics, 2023."
+
+-
+  layout: paper
+  paper-type: inproceedings
+  selected: y
+  year: 2023
+  title: "Quality Analysis of Multilingual Neural Machine Translation Systems and Reference Test Translations for the English-Romanian  Language Pair in the Medical Domain"
+  authors: "M. Rios, RM. Chereji, A. Secara, and D. Ciobanu"
+  doc-url: //aclanthology.org/2023.eamt-1.35.pdf
+  booktitle: "EAMT 2023"
+  code: //github.com/mriosb08/medical-NMT-HAITrans
+
+-
+  layout: paper
+  paper-type: inproceedings
+  selected: y
+  year: 2023
   title: "Negation detection in Dutch clinical texts: an evaluation of rule-based and machine learning methods"
   authors: "B. van Es, LC. Reteig, SC. Tan, M. Schraagen, MM. Hemker, SRS. Arends, M. Rios, and S. Haitjema "
-  doc-url: https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-022-05130-x
+  doc-url: //bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-022-05130-x
   booktitle: "BMC Bioinformatics 24, 10 (2023). https://doi.org/10.1186/s12859-022-05130-x"
+  code: //github.com/umcu/negation-detection
 
 -
   layout: paper
@@ -15,8 +37,8 @@
   year: 2022
   title: "Impact of Domain-Adapted Multilingual Neural Machine Translation in the Medical Domain"
   authors: "M. Rios, RM. Chereji, A Secara, and D Ciobanu"
-  doc-url: https://arxiv.org/pdf/2212.02143.pdf
-  arxiv: https://arxiv.org/abs/2212.02143
+  doc-url: //arxiv.org/pdf/2212.02143.pdf
+  arxiv: //arxiv.org/abs/2212.02143
   booktitle: "Translating and the Computer - TC44, 24 November 2022, Luxembourg"
 
 -
